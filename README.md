@@ -1,36 +1,23 @@
-# ShapeDemo121.github.io
-WEB.DEV BOOTCAMP
-<!DOCTYPE HTML>
-<head>
-<meta charaset="utf-8">
-<link href="style.css" rel="stylesheet" type="text/css">
-</head>
-<body>
-<section id="main">
-<nav>
-<a href="file:///C:/Users/ADITHI/OneDrive/Desktop/index.html" class="logo" ><img src="https://ih1.redbubble.net/image.263045882.6131/flat,750x1000,075,t.u2.jpg" alt="The logo of SRK"></a>
-<span class="menu-space"></span>
-<ul class="menu">
-<li><a href="file:///C:/Users/ADITHI/OneDrive/Desktop/index.html">HOME</a></li>
-<li><a href="https://sudarshanpurohit.com/shahrukh-khan-qualities/">SKILLS</a></li>
-<li><a href="https://www.filmibeat.com/celebs/shahrukh-khan/upcoming-movies.html">RECENT NEWS</a></li>
-<li><a href="https://srscreations.com/shahrukh-khan-all-movies-list/#:~:text=1%20Deewana.%20This%20was%20the%20debut%20movie%20of,is%20the%20Sixth%20Film%20of%20Shahrukh%20Khan.%20">FILMS</a></li>
-<li><a href="https://celebritymanagercontact.blogspot.com/2019/09/official-contact-shahrukh-khan-number91.html">CONTACT</a></li>
-</ul>
-<a href="https://wonderfulmumbai.com/photo-of-mannat-shahrukh-khans-house-at-bandra-mumbai/" class="hey" ><strong>Say Hi!</strong></a>
-</nav>
-</section>
-<div class="content">
-<div class="image" >
-<img src="https://th.bing.com/th/id/R7ef37459d7a87897e9d8dbf89f6e5da0?rik=sQvdsoY7b8Z9EA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-seSoV0_4kZA%2fUrYQB4W5ZpI%2fAAAAAAAADuM%2ff5UFI4rZZQ8%2fs1600%2fshahrukh-khan2344.jpg&ehk=xObF2Shvb9Gyj9qV9j96%2fx8GCUdlTzOZy0%2bPS8RzLhw%3d&risl=&pid=ImgRaw" alt="SRK" >
-</div>
-<div class="main-text">
-<h1>Hello,I am <br>Shahrukh Khan</h1>
-<p>Hey in this video i will be showing you guys how to buld a website using HTML and CSS</p>
-<a href="https://www.imdb.com/name/nm0451321/" class="resume-btn">See my Resume</a>
-</div>
-</body>
-</html>
-
-
-
+# SHAPEAI WEB DEV BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+<br>I got to have hands on experience on:
+<li>HTML
+<li>CSS
+<br>during these 7 days, and everything was explained from the very basics so that
+anyone with zero experience on programming can learn.
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+www.shapeai.tech
+or follow SHAPEAI on:
+<li><a href=
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href=
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><a
+href=
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+be</a>
+<li><a href=
+       "https://github.com/shapeai">GitHub</a>
